@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![IIS Install](https://imgur.com/D3HsV4w)
+(https://imgur.com/D3HsV4w)
 </p>
 <p>
 In order to install a webserver on the virtual machine I first had to enable some application development features. Such as a Common Gateway Interface
