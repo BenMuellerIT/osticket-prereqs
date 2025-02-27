@@ -38,7 +38,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-(https://imgur.com/D3HsV4w)
+<img src="https://i.imgur.com/D3HsV4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 In order to install a webserver on the virtual machine I first had to enable some application development features. Such as a Common Gateway Interface
