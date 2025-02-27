@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/MnZyWfp" height="80%" width="80%" alt="Install IIS"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/MnZyWfp" data-context="false" ><a href="//imgur.com/a/MnZyWfp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <p>
 In order to install a webserver on the virtual machine I first had to enable some application development features. Such as a Common Gateway Interface
@@ -46,7 +46,7 @@ In order to install a webserver on the virtual machine I first had to enable som
 <br />
 
 <p>
-<img src="https://imgur.com/vtVPTGz" height="80%" width="80%" alt="Register PHP"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/BeJR9kr" data-context="false" ><a href="//imgur.com/a/BeJR9kr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <p>
 Registering the PHP from within IIS makes the webserver aware of the location of our PHP folder that was created
@@ -54,7 +54,7 @@ Registering the PHP from within IIS makes the webserver aware of the location of
 <br />
 
 <p>
-<img src="https://imgur.com/j6PJCiG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/dnTEWlo" data-context="false" ><a href="//imgur.com/a/dnTEWlo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <p>
 Now that osTicket is installed we can create tickets as users and manage tickes as employees and admins.
