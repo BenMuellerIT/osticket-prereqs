@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-(https://youtu.be/8foq0WltNKI)
+- ### [YouTube: How To Configure osTicket, post-installation](https://youtu.be/8foq0WltNKI)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,34 +22,41 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create a virtual machine in Azure
+- Install/Enable Internet Information services (IIS) in windows with Common Gateway Interface (CGI) 
+- Install PHP Manager for IIS
+- Install Rewrite Modual
+- Create Directory C:\PHP
+- Install VC_redist.x896.exe
+- Install MySQL
+- Register PHP
+- Install osTicket
+- Enable Disabled Extensions
+- Assign Permissions
+- Create osTicket Database
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/MnZyWfp" height="80%" width="80%" alt="Install IIS"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to install a webserver on the virtual machine I first had to enable some application development features. Such as a Common Gateway Interface
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vtVPTGz" height="80%" width="80%" alt="Register PHP"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Registering the PHP from within IIS makes the webserver aware of the location of our PHP folder that was created
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/j6PJCiG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that osTicket is installed we can create tickets as users and manage tickes as employees and admins.
 </p>
 <br />
