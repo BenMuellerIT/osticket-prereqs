@@ -47,7 +47,8 @@ In order to install a webserver on the virtual machine I first had to enable som
 <br />
 
 <p>
-[<blockquote class="imgur-embed-pub" lang="en" data-id="a/BeJR9kr" data-context="false" ><a href="//imgur.com/a/BeJR9kr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/6t1cPAt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Registering the PHP from within IIS makes the webserver aware of the location of our PHP folder that was created
@@ -55,7 +56,7 @@ Registering the PHP from within IIS makes the webserver aware of the location of
 <br />
 
 <p>
-[<blockquote class="imgur-embed-pub" lang="en" data-id="a/dnTEWlo" data-context="false" ><a href="//imgur.com/a/dnTEWlo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/DL88CSZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now that osTicket is installed we can create tickets as users and manage tickes as employees and admins.
