@@ -42,7 +42,7 @@ This section outlines the prerequisites and installation of the open-source help
 
 </p>
 <p>
-In order to install a webserver on the virtual machine I first had to enable some application development features. Such as a Common Gateway Interface
+In order to install a webserver on the virtual machine I first had to enable some application development features, such as a Common Gateway Interface. Then I installed administrator tools like HeidiSQL, and a PHP manager for IIS.
 </p>
 <br />
 
@@ -51,7 +51,7 @@ In order to install a webserver on the virtual machine I first had to enable som
 
 </p>
 <p>
-Registering the PHP from within IIS makes the webserver aware of the location of our PHP folder that was created
+Enabling PHP from within IIS makes the webserver aware of the location of our PHP folder that I created earlier. From there we can install osTicket.
 </p>
 <br />
 
@@ -59,6 +59,6 @@ Registering the PHP from within IIS makes the webserver aware of the location of
 <img src="https://i.imgur.com/DL88CSZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that osTicket is installed we can create tickets as users and manage tickes as employees and admins.
+Now that osTicket is installed we can create tickets as users and manage tickes as employees and admins. Next step is to configure roles, departments, teams, agents and users. As well as set our SLA's.
 </p>
 <br />
